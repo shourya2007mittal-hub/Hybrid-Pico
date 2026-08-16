@@ -1,6 +1,7 @@
 # Hybrid-Pico
 
-<img width="656" height="611" alt="Screenshot 2026-08-09 225355" src="https://github.com/user-attachments/assets/25565097-cfa3-4314-9b47-6c49b06e2d7c" />
+<img width="491" height="607" alt="Screenshot 2026-08-17 012307" src="https://github.com/user-attachments/assets/24feae4e-2ba0-4e4f-a202-cbabcf93e3c9" />
+
 
 I have designated a hybrid Rp2040 PICO Devboard with IMU and barometer . So we could use it as a flight controller or as a simple dev-board as per our need and when ever we want or a module to see if there is any movement . I mean it could act as an upgraded version of PICO with inbuilt movement tracker or even a decent flight controller
 
