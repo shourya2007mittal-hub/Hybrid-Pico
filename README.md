@@ -27,20 +27,20 @@ This repository contains the hardware components, PCB fabrication, and assembly 
 | **10uF** | 20 | $0.59 | [CL10A106MQ8NNNC](https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691) |
 | **33pF** | 20 | $0.11 | [GRM0335C1H330JA01D](https://jlcpcb.com/partdetail/MurataElectronics-GRM0335C1H330JA01D/C76925) |
 | **0.1uF** | 26 | $0.15 | [0201X104K100NT](https://jlcpcb.com/partdetail/270391-0201X104K100NT/C284966) |
-| **0.1uF** | 26 | $0.15 | [0201X104K100NT](https://jlcpcb.com/partdetail/270391-0201X104K100NT/C284966) |
+| **27 ohm** | 4 | $0.15 | [0201X104K100NT](https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100) |
 | **100nF** | 20 | $0.15 | [GRM033R61A104KE15D](https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61A104KE15D/C76934) |
-| **LED** | 10 | $0.68 | [XL0201SURC](https://jlcpcb.com/partdetail/XINGLIGHT-XL0201SURC/C3646923) |
-| **USB_C_Receptacle_USB2.0_16P** | 2 | $4.08 | [USB31_TYPE_CFSABC](https://jlcpcb.com/partdetail/XKBConnection-USB31_TYPE_CFSABC/C2880583) |
+| **LED** | 6 | $0.68 | [XL0201SURC](https://jlcpcb.com/partdetail/XINGLIGHT-XL0201SURC/C3646923) |
+| **USB_C_Receptacle_USB2.0_16P** | 2 | $4.08 | [USB31_TYPE_CFSABC](https://jlcpcb.com/partdetail/GSwitch-GT_USB7010ASV/C2988369) |
 | **33R** | 20 | $0.06 | [0201WMJ0330TEE](https://jlcpcb.com/partdetail/416306-0201WMJ0330TEE/C423356) |
 | **50K** | 6 | $0.76 | [GL3549](https://jlcpcb.com/partdetail/10622-GL3549/C10083) |
 | **1K** | 22 | $0.06 | [0201WMF1001TEE](https://jlcpcb.com/partdetail/259895-0201WMF1001TEE/C270365) |
-| **SW_Push** | 5 | $1.86 | [K5_1672SN01](https://jlcpcb.com/partdetail/Korean_HropartsElec-K5_1672SN01/C502360) |
-| **MCP1700x-330xxTT** | 2 | $1.03 | [MCP1700_3002ETO](https://jlcpcb.com/partdetail/MicrochipTech-MCP1700_3002ETO/C185558) |
+| **SW_Push** | 4 | $1.86 | [K5_1672SN01](https://jlcpcb.com/partdetail/Korean_HropartsElec-K5_1672SN01/C502360) |
+| **MCP1700x-330xxTT** | 2 | $1.03 | [MCP1700_3002ETO](https://jlcpcb.com/partdetail/MicrochipTech-MCP1700T_3302ETT/C39051) |
 | **MPU-6050** | 2 | $26.80 | [MPU6050](https://jlcpcb.com/partdetail/TDKInvenSense-MPU6050/C24112) |
 | **BMP280** | 2 | $25.58 | [BMP280](https://jlcpcb.com/partdetail/BoschSensortec-BMP280/C83291) |
 | **12MHz** | 5 | $1.27 | [NX3225GA_12MHZ](https://jlcpcb.com/partdetail/NDK-NX3225GA_12MHZ_STD_CRG2/C481407) |
 | **RP2040** | 0 | $2.47 | [RP2040](https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2961140) |
-| **W25Q16JVUXIQTR** | 0 | $0.00 | [W25Q16JVUXIQTR](https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVUXIQTR/C5333738) |
+| **W25Q16JVUXIQTR** | 2 | $0.987 | [W25Q16JVUXIQTR](https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVUXIQTR/C5333738) |
 
 ---
 
