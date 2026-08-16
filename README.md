@@ -66,16 +66,18 @@ This repository contains the hardware components, PCB fabrication, and assembly 
 - **Grand Total:** **`$158.29 USD`**
 
 ### Schematic 
-<img width="895" height="582" alt="Screenshot 2026-08-09 190204" src="https://github.com/user-attachments/assets/ec79e607-c6c6-406b-a942-cf03e44e57a0" />
+<img width="1473" height="967" alt="Screenshot 2026-08-16 232050" src="https://github.com/user-attachments/assets/19592324-6306-4a42-8b39-e43f268fca7a" />
+
 
 
 ### PCB Design
-<img width="305" height="692" alt="Screenshot 2026-08-09 225334" src="https://github.com/user-attachments/assets/26191cc2-27ba-4812-acee-c0d2bec8928d" />
+
+<img width="515" height="723" alt="Screenshot 2026-08-17 012205" src="https://github.com/user-attachments/assets/270fe80f-59ab-4466-8e6e-7eb239a38999" />
+<img width="467" height="777" alt="Screenshot 2026-08-17 012254 - Copy" src="https://github.com/user-attachments/assets/d9190034-1c50-402e-98b3-393a6d17cfcb" />
 
 ### 3D Design
 
 <img width="790" height="757" alt="Screenshot 2026-08-09 231012" src="https://github.com/user-attachments/assets/3dbbf17c-30e3-4e49-9bf2-d1b93e53c15c" />
-
 <img width="656" height="611" alt="Screenshot 2026-08-09 225355" src="https://github.com/user-attachments/assets/7e27f814-4efe-4a22-ad8d-974c266047d8" />
 
  
