@@ -3,14 +3,19 @@
 <img width="491" height="607" alt="Screenshot 2026-08-17 012307" src="https://github.com/user-attachments/assets/24feae4e-2ba0-4e4f-a202-cbabcf93e3c9" />
 
 
-I have designated a hybrid Rp2040 PICO Devboard with IMU and barometer . So we could use it as a flight controller or as a simple dev-board as per our need and when ever we want or a module to see if there is any movement . I mean it could act as an upgraded version of PICO with inbuilt movement tracker or even a decent flight controller
+So I have designed an RP2040 based Devboard with identical dimensions and pin layout as a A Raspberry Pi Pico . The Board has all the 40 main physical pins arranged along the edges of the board (20 pins on each side), plus 3 separate debug pins underneath. A Boot pin for reboot and few onboard LEDS and 3.3V Voltage regulator for power supply to the micro-controllers. But my design has an upgrade . The Board also includes an inbuilt IMU (MPU-5060) and Barometer (BMP-280) and they are properly connected to the MCU while maintaining the same dimensions as Raspberry Pi Pico . This broadens the scope of use for this board . As it could be easily connected  to a breadboard and the inbuilt IMU/Barometer sensors helps a lot in during  prototyping a project like a handheld with Gyro , a movement sensor device , A compass or as a flight controller and more there isn't an end to the ideas you could use it for .      
+
+
+
 
 ## Features
 
 - Based on RP-2040 Chip
-- Has inbuilt Voltage regulator
-- has Inbuilt IMU and Barometer
-- Can be used as a simple PICO devboard to a whole flight controller
+- Identical Dimension and pin layout as RP-PICO
+- 40 physical pins + 3 debugs pin and the board is breadboard compatible 
+- Has inbuilt 3.3V  Voltage regulator
+- has Inbuilt IMU (MPU-5060) and Barometer (BMP280)
+
 
   # Project Bill of Materials (BOM) & Cost Breakdown
 
