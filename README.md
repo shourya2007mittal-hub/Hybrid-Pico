@@ -32,7 +32,6 @@ This repository contains the hardware components, PCB fabrication, and assembly 
 | :--- | :---: | :---: | :--- |
 | **1uF** | 8 | $0.61 | [GRM033R61A105ME44D](https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61A105ME44D/C76935) |
 | **10uF** | 16| $0.59 | [CL10A106MQ8NNNC](https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691) |
-
 | **33pF** | 8 | $0.11 | [GRM0335C1H330JA01D](https://jlcpcb.com/partdetail/MurataElectronics-GRM0335C1H330JA01D/C76925) |
 | **0.1uF** | 12| $0.15 | [0201X104K100NT](https://jlcpcb.com/partdetail/270391-0201X104K100NT/C284966) |
 | **27 ohm** | 4 | $0.15 | [0201X104K100NT](https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100) |
