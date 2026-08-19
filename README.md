@@ -3,9 +3,9 @@
 <img width="491" height="607" alt="Screenshot 2026-08-17 012307" src="https://github.com/user-attachments/assets/24feae4e-2ba0-4e4f-a202-cbabcf93e3c9" />
 
 
-So I have designed an RP2040 based Devboard with identical dimensions and pin layout as a A Raspberry Pi Pico . 
-The board contains the same pin layout and dimensions the RP Pico .
-These is a Boot pin for reboot and few onboard LEDS and 3.3V Voltage regulator for power supply to the micro-controllers. 
+So I have designed an RP2040 based Devboard with identical dimensions and pin layout as a A Raspberry Pi Pico . <br>
+The board contains the same pin layout and dimensions the RP Pico .<br>
+These is a Boot pin for reboot and few onboard LEDS and 3.3V Voltage regulator for power supply to the micro-controllers. <br>
 and my design has an upgrade . The Dev-board also includes an inbuilt IMU and Barometer . This broadens the scope of use for this board . As it could be easily connected  to a breadboard and the inbuilt IMU/Barometer sensors helps a lot in during  prototyping a project like a handheld with Gyro , a movement sensor device or  as a  compass or as a flight controller
 
 
