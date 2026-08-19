@@ -30,13 +30,13 @@ This repository contains the hardware components, PCB fabrication, and assembly 
 
 | Component / Comment | Quantity | Price (USD) | JLCPCB Part Link |
 | :--- | :---: | :---: | :--- |
-| **1uF** | 20 | $0.61 | [GRM033R61A105ME44D](https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61A105ME44D/C76935) |
-| **10uF** | 20 | $0.59 | [CL10A106MQ8NNNC](https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691) |
-| **10uF** | 20 | $0.59 | [CL10A106MQ8NNNC](https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691) |
-| **33pF** | 20 | $0.11 | [GRM0335C1H330JA01D](https://jlcpcb.com/partdetail/MurataElectronics-GRM0335C1H330JA01D/C76925) |
-| **0.1uF** | 26 | $0.15 | [0201X104K100NT](https://jlcpcb.com/partdetail/270391-0201X104K100NT/C284966) |
+| **1uF** | 8 | $0.61 | [GRM033R61A105ME44D](https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61A105ME44D/C76935) |
+| **10uF** | 16| $0.59 | [CL10A106MQ8NNNC](https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691) |
+
+| **33pF** | 8 | $0.11 | [GRM0335C1H330JA01D](https://jlcpcb.com/partdetail/MurataElectronics-GRM0335C1H330JA01D/C76925) |
+| **0.1uF** | 12| $0.15 | [0201X104K100NT](https://jlcpcb.com/partdetail/270391-0201X104K100NT/C284966) |
 | **27 ohm** | 4 | $0.15 | [0201X104K100NT](https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100) |
-| **100nF** | 20 | $0.15 | [GRM033R61A104KE15D](https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61A104KE15D/C76934) |
+| **100nF** | 8| $0.15 | [GRM033R61A104KE15D](https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61A104KE15D/C76934) |
 | **LED** | 6 | $0.68 | [XL0201SURC](https://jlcpcb.com/partdetail/XINGLIGHT-XL0201SURC/C3646923) |
 | **USB_C_Receptacle_USB2.0_16P** | 2 | $4.08 | [USB31_TYPE_CFSABC](https://jlcpcb.com/partdetail/GSwitch-GT_USB7010ASV/C2988369) |
 | **33R** | 20 | $0.06 | [0201WMJ0330TEE](https://jlcpcb.com/partdetail/416306-0201WMJ0330TEE/C423356) |
@@ -72,7 +72,7 @@ This repository contains the hardware components, PCB fabrication, and assembly 
 
 ## 💰 Total Cost
 
-- **Grand Total:** **`$158.29 USD`**
+- **Grand Total:** **`$138.29 USD`**
 
 ### Schematic 
 <img width="1112" height="725" alt="image" src="https://github.com/user-attachments/assets/87047980-2da0-419c-89de-629a7c5ac858" />
