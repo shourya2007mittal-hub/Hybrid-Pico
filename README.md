@@ -3,7 +3,10 @@
 <img width="491" height="607" alt="Screenshot 2026-08-17 012307" src="https://github.com/user-attachments/assets/24feae4e-2ba0-4e4f-a202-cbabcf93e3c9" />
 
 
-So I have designed an RP2040 based Devboard with identical dimensions and pin layout as a A Raspberry Pi Pico . The Board has all the 40 main physical pins arranged along the edges of the board (20 pins on each side), plus 3 separate debug pins underneath. A Boot pin for reboot and few onboard LEDS and 3.3V Voltage regulator for power supply to the micro-controllers. But my design has an upgrade . The Board also includes an inbuilt IMU (MPU-5060) and Barometer (BMP-280) and they are properly connected to the MCU while maintaining the same dimensions as Raspberry Pi Pico . This broadens the scope of use for this board . As it could be easily connected  to a breadboard and the inbuilt IMU/Barometer sensors helps a lot in during  prototyping a project like a handheld with Gyro , a movement sensor device , A compass or as a flight controller and more there isn't an end to the ideas you could use it for .      
+So I have designed an RP2040 based Devboard with identical dimensions and pin layout as a A Raspberry Pi Pico . 
+The board contains the same pin layout and dimensions the RP Pico .
+These is a Boot pin for reboot and few onboard LEDS and 3.3V Voltage regulator for power supply to the micro-controllers. 
+and my design has an upgrade . The Dev-board also includes an inbuilt IMU and Barometer . This broadens the scope of use for this board . As it could be easily connected  to a breadboard and the inbuilt IMU/Barometer sensors helps a lot in during  prototyping a project like a handheld with Gyro , a movement sensor device , A compass or as a flight controller and more there isn't an end to the ideas you could use it for .      
 
 
 
@@ -72,7 +75,8 @@ This repository contains the hardware components, PCB fabrication, and assembly 
 - **Grand Total:** **`$158.29 USD`**
 
 ### Schematic 
-<img width="1473" height="967" alt="Screenshot 2026-08-16 232050" src="https://github.com/user-attachments/assets/19592324-6306-4a42-8b39-e43f268fca7a" />
+<img width="1112" height="725" alt="image" src="https://github.com/user-attachments/assets/87047980-2da0-419c-89de-629a7c5ac858" />
+
 
 
 
