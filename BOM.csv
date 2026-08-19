@@ -4,10 +4,10 @@ Comment,Quantity,Price,Link
 33pF,8,$0.11,https://jlcpcb.com/partdetail/MurataElectronics-GRM0335C1H330JA01D/C76925
 0.1uF,12,$0.15,https://jlcpcb.com/partdetail/270391-0201X104K100NT/C284966
 27ohm,4,$0.15,https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100
-100nf,20,$0.15,https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61A104KE15D/C76934
+100nf,8,$0.15,https://jlcpcb.com/partdetail/MurataElectronics-GRM033R61A104KE15D/C76934
 LED,6,$0.68,https://jlcpcb.com/partdetail/XINGLIGHT-XL0201SURC/C3646923
 USB_C_Receptacle_USB2.0_16P,2,$0.28,https://jlcpcb.com/partdetail/GSwitch-GT_USB7010ASV/C2988369
-33R,20,$0.06,https://jlcpcb.com/partdetail/416306-0201WMJ0330TEE/C423356
+33R,8,$0.06,https://jlcpcb.com/partdetail/416306-0201WMJ0330TEE/C423356
 50K,6,$0.76,https://jlcpcb.com/partdetail/10622-GL3549/C10083
 1K,22,$0.06,https://jlcpcb.com/partdetail/259895-0201WMF1001TEE/C270365
 SW_Push,4,$1.86,https://jlcpcb.com/partdetail/Korean_HropartsElec-K5_1672SN01/C502360
@@ -29,4 +29,4 @@ PCB Assembly Fixture,1,$16.42,
 Packaging Fee,1,$0.49,
 Special Components Fee,1,$0.06,
 Shipping Fee,1,$11.68,
-Total,,$158.29,
+Total,,$138.29,
